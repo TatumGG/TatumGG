@@ -1,6 +1,6 @@
 # 💫 About Me:
-My Name is TatumGG
-I'm currently working on SimpleServerSetup
+My Name is TatumGG.
+I'm currently working on SimpleServerSetup.
 
 ---
 
@@ -15,7 +15,9 @@ I'm currently working on SimpleServerSetup
 ![](https://github-profile-trophy.vercel.app/?username=TatumGG&theme=onestar&no-frame=true&no-bg=false&margin-w=4)
 
 ---
+
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
 ---
 ![](https://github-contributor-stats.vercel.app/api?username=TatumGG&limit=5&theme=onestar&combine_all_yearly_contributions=true)
 
