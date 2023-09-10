@@ -1,8 +1,3 @@
+<h1>Whats cookin doc?</h1>
+<h2>My name is Justin aka TatumGG</h2>
 
-#  Hello 👋
-
------
-## My name is Tatum, and I like making small projects with my friends. I make anything from websites to MVVM applications, just for fun of course. ###
------
-## I am also a proud frontend developer of SimpleServerSetup (coming soon) ###
------
