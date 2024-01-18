@@ -1,7 +1,7 @@
-<h1 align="left">Hi 👋, I'm Justin</h1>
-<h3 align="left">I am currently a frontend web developer</h3>
+# Hi 👋, I'm Justin #
+### I am currently a frontend web developer ###
 
-- 🔭 I’m currently working on **SimplexServers**
+### My goal is to write readable HTML and CSS ###
 
 -----
 
